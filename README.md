@@ -56,10 +56,10 @@ Infine, lanciare il bot da terminale:
 
 ## Autore
 
-- [@sim1-dev](https://github.com/sim1-dev) 
+- [@sim1-dev](https://www.simonetenisci.it/) 
 
 
-## Offri[mi](https://www.simonetenisci.it/) un caffè ☕
+## Offrimi un caffè ☕
 
 [![alt text][image]][hyperlink]
 
