@@ -48,6 +48,10 @@ Infine, lanciare il bot da terminale:
 - /test - Scatena la schedulazione in maniera manuale (non ferma quella automatica)
 - /dona - Info donazioni
 
+## Problemi di funzionamento
+
+Da un aggiornamento di Youtube dello 01/06/2022 la libreria moviePy non riesce a recuperare i video (per il momento), per sistemare è necessario andare in /usr/local/lib/python3/moviepy/cypher.py e sostituire il pattern sulla riga 30 ("^\w+\W") con il seguente: "^\$*\w+\W"
+
 
 ## Licenza
 
