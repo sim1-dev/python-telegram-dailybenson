@@ -5,6 +5,7 @@
 # Richard Benson Python Telegram Bot
 
 Questo bot è un tributo a Richard Philip Henry John Benson (1955 - 2022) ed è totalmente gratuito. A una specifica ora del giorno (default 12:00), invia una clip random di 30 secondi da un video di Richard Benson a tutti gli iscritti.
+Disclaimer: Il progetto è stato realizzato in un pomeriggio appositamente come test di velocità. Non utilizzare l'organizzazione del codice come riferimento ;)
 
 ## Installazione
 
@@ -27,11 +28,8 @@ Dopodichè, clonare il progetto e preparare il .env all'interno della cartella:
 Successivamente, compilare i campi nell'env con i propri valori:
 
 - BOT_TOKEN = Token del Bot Telegram (Generato creando un nuovo bot su @BotFather)
-
 - DB_NAME = Nome del file database SQLite (deve finire con .db)
-
 - LOG_FILE = Percorso del file log (es. debug.log)
-
 - OWNER_ID = ID Telegram del creatore del bot (Si può recuperare con diversi bot come @UserInfoBot)
 
 
